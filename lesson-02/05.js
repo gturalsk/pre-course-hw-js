@@ -5,6 +5,3 @@ let passport = {
 
 let passportClone = { ...passport };
 passportClone.name = "Ivan";
-
-console.log(passport);
-console.log(passportClone);
